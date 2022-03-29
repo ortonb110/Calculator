@@ -20,6 +20,7 @@ body {
 
 a {
   text-decoration: none;
+  text-align: center;
 }
 
 .container {
@@ -71,6 +72,12 @@ a {
   font-size: 2rem;
   padding: 1rem 0;
   cursor: pointer;
+  border: 0;
+}
+
+.clear {
+  color: red;
+  background-color: azure;
 }
 
 .btn-operators {
